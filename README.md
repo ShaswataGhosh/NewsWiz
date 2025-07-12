@@ -7,6 +7,8 @@ This project uses `Ollama (LLaMA 3.2)` + a web scraper to fetch and summarize ne
 - Summarizes or simplifies news using LLM
 - Interactive chatbot interface via Streamlit
 
+## 📸 Screenshot  ![Chatbot Screenshot](https://github.com/ShaswataGhosh/NewsWiz/blob/main/Screenshot.png?raw=true)
+
 ## 🚀 Getting Started
 
 ```bash
